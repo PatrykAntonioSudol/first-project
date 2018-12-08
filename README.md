@@ -1,4 +1,4 @@
 # first-project
 
 
-pierwszy commit
+drugi commit
